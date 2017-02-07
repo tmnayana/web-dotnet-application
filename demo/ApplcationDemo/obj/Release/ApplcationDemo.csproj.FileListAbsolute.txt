@@ -1,0 +1,6 @@
+C:\Users\20077794\Desktop\C#application\demo\ApplcationDemo\bin\ApplcationDemo.dll.config
+C:\Users\20077794\Desktop\C#application\demo\ApplcationDemo\bin\ApplcationDemo.dll
+C:\Users\20077794\Desktop\C#application\demo\ApplcationDemo\bin\ApplcationDemo.pdb
+C:\Users\20077794\Desktop\C#application\demo\ApplcationDemo\obj\Release\ApplcationDemo.csprojResolveAssemblyReference.cache
+C:\Users\20077794\Desktop\C#application\demo\ApplcationDemo\obj\Release\ApplcationDemo.dll
+C:\Users\20077794\Desktop\C#application\demo\ApplcationDemo\obj\Release\ApplcationDemo.pdb
